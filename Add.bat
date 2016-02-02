@@ -1,4 +1,4 @@
-REM Addition game where you must add 2 numbers between 1 and 100
+REM Addition game where you practice adding 2 numbers between 1 and 100
 REM Written by: Chris Horan
 
 @echo off
